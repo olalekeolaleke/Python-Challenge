@@ -1,0 +1,24 @@
+Last login: Tue Jun 21 00:09:47 on ttys009
+(base) ola@Olalekes-MBP ~ % cd Desktop
+(base) ola@Olalekes-MBP Desktop % cd python-challenge
+(base) ola@Olalekes-MBP python-challenge % cd PyBank
+(base) ola@Olalekes-MBP PyBank % Python main.py
+86
+22564198
+(base) ola@Olalekes-MBP PyBank % Python main.py
+Financial Analysis: 
+...................
+Total Month: 86
+Total: $22564198
+Average Change: $-8311.11
+Greatest Increase: $1141840
+(base) ola@Olalekes-MBP PyBank % 
+
+
+
+
+
+
+
+
+
